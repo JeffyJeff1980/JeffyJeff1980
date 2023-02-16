@@ -1,1 +1,1 @@
-# Full Stack Web developer / Data engineer / Solutions Architect
+# Solutions Architect / Full Stack Web developer
